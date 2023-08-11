@@ -6,5 +6,5 @@ using UnityEngine;
 
 namespace Lol
 {
-    def
+    xnj yb,enm gbie
 }
